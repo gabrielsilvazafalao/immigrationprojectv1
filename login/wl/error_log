@@ -1,0 +1,33 @@
+[16-Dec-2017 18:20:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/migrationproject/public_html/venue/wl/index.php on line 16
+[18-Dec-2017 15:06:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/migrationproject/public_html/venue/wl/logout.php on line 10
+[18-Dec-2017 15:06:53 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/migrationproject/public_html/venue/wl/logout.php on line 10
+[18-Dec-2017 15:08:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/migrationproject/public_html/venue/wl/logout.php on line 10
+[18-Dec-2017 15:08:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/migrationproject/public_html/venue/wl/logout.php on line 10
+[18-Dec-2017 16:04:59 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/migrationproject/public_html/venue/wl/index.php on line 340
+[18-Dec-2017 16:05:56 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/migrationproject/public_html/venue/wl/index.php on line 340
+[18-Dec-2017 18:41:33 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/migrationproject/public_html/venue/wl/index.php on line 216
+[18-Dec-2017 18:41:52 UTC] PHP Parse error:  syntax error, unexpected '$registo_user' (T_VARIABLE) in /home/migrationproject/public_html/venue/wl/index.php on line 216
+[16-Apr-2018 18:49:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 333
+[16-Apr-2018 18:54:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 346
+[16-Apr-2018 18:54:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 346
+[16-Apr-2018 18:55:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 346
+[16-Apr-2018 18:56:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 346
+[16-Apr-2018 18:57:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 349
+[16-Apr-2018 18:57:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 349
+[16-Apr-2018 18:58:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 347
+[16-Apr-2018 18:59:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/migrationproject/public_html/venue/wl/alt_minhaconta.php on line 350
+[26-Apr-2018 18:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/migrationproject/public_html/venue/wl/index.php:407) in /home/migrationproject/public_html/venue/func.php on line 3
+[26-Apr-2018 18:34:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/migrationproject/public_html/venue/wl/index.php:407) in /home/migrationproject/public_html/venue/func.php on line 3
+[26-Apr-2018 18:37:49 UTC] PHP Fatal error:  Cannot redeclare decryptIt() (previously declared in /home/migrationproject/public_html/venue/wl/minhaconta.php:6) in /home/migrationproject/public_html/venue/func.php on line 13
+[26-Apr-2018 18:39:00 UTC] PHP Fatal error:  Call to undefined function decryptIt() in /home/migrationproject/public_html/venue/wl/index.php on line 27
+[11-May-2018 19:21:13 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/migrationproject/public_html/venue/wl/minhaconta.php on line 128
+[11-May-2018 19:21:34 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/migrationproject/public_html/venue/wl/minhaconta.php on line 128
+[11-May-2018 19:35:12 UTC] PHP Parse error:  syntax error, unexpected 'add_sociamedia' (T_STRING) in /home/migrationproject/public_html/venue/wl/minhaconta.php on line 378
+[11-May-2018 19:51:52 UTC] PHP Warning:  require_once(whastapp.php): failed to open stream: No such file or directory in /home/migrationproject/public_html/venue/wl/minhaconta.php on line 373
+[11-May-2018 19:51:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'whastapp.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/migrationproject/public_html/venue/wl/minhaconta.php on line 373
+[11-May-2018 19:52:50 UTC] PHP Warning:  include(whastapp.php): failed to open stream: No such file or directory in /home/migrationproject/public_html/venue/wl/minhaconta.php on line 373
+[11-May-2018 19:52:50 UTC] PHP Warning:  include(): Failed opening 'whastapp.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/migrationproject/public_html/venue/wl/minhaconta.php on line 373
+[11-May-2018 20:03:40 UTC] PHP Warning:  require_once(whastapp.php): failed to open stream: No such file or directory in /home/migrationproject/public_html/venue/wl/add_sociamedia.php on line 140
+[11-May-2018 20:03:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'whastapp.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/migrationproject/public_html/venue/wl/add_sociamedia.php on line 140
+[15-May-2018 01:45:59 UTC] PHP Warning:  include(/emt/footer.php): failed to open stream: No such file or directory in /home/migrationproject/public_html/venue/wl/index.php on line 424
+[15-May-2018 01:45:59 UTC] PHP Warning:  include(): Failed opening '/emt/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/migrationproject/public_html/venue/wl/index.php on line 424
